@@ -1,0 +1,27 @@
+{
+  "name": "gtfs-timetable-pipeline",
+  "version": "1.0.0",
+  "description": "High-performance Node.js pipeline for indexing, frequency calculation, and static timetable generation from GTFS transit feeds.",
+  "type": "module",
+  "main": "src/index.mjs",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "keywords": [
+    "gtfs",
+    "transit",
+    "public-transport",
+    "timetables",
+    "schedule",
+    "headway",
+    "stopwatch",
+    "open-data"
+  ],
+  "author": "Shivrajsinh Zala",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shivrajsinhzala/gtfs-timetable-pipeline.git"
+  },
+  "homepage": "https://headway.shivrajsinh.in"
+}
